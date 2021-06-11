@@ -1,4 +1,4 @@
-# Plaid-Institution-Logo-Crawler
+# Plaid-Institution-Logo-Crawler-Using-Python
 
 I created this script to extract logos from Plaid's API and add them to my application's website: https://bankfolio.app/.
 
